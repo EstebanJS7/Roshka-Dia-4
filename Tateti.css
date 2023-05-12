@@ -26,6 +26,11 @@ input{
 button{
     background-color: black;
     color: white;
+    align-self: center;
+}
+
+th{
+    align-items: center;
 }
 
 td{
